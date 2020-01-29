@@ -1,1 +1,1 @@
-worker: run
+Web
