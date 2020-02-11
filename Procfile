@@ -1,2 +1,2 @@
-web: node index.js
-web: node --debug=5858 index.js
+web: node dist/server.js
+release: npm run migration-run
